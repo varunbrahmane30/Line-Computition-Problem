@@ -10,7 +10,8 @@ namespace Line_Computition_Problem
             Console.WriteLine("Welcome to Line Computition Program !");
 
             //call classes 
-            UC1LineLength.getCartesianPoint();
+            //UC1LineLength.getCartesianPoint();
+            UC2LineEqualityCheck.getCartesianPoint();
         }
     }
 }
